@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-videoGFX.mp4 (not changing the name hmph) is a visual animation created using Blender geometry nodes. It showcases a landscape of hexagons and 2d grass with colorful lights yay. This project was for exhibiting the capabilities of procedural generation and the power of computer graphics for creating visual environments.
+HexWrld (The animation) and Mp4Format (Python Code) 
+-The are both demenstrations of my development in the field of graphical computing knowladge. The visual animation (HexWrld) was created using Blender geometry nodes. It showcases a landscape of hexagons and 2d grass with colorful lights yay. This project was for exhibiting the capabilities of procedural generation and the power of computer graphics for creating visual environments.
 
 The project is part of a exploration into computer graphics, and serves as a testament to the learning and application of various tools and concepts within Blender. 
 
