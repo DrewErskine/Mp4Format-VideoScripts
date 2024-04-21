@@ -1,4 +1,4 @@
-# HexaDynamic - A Blender Geometry Nodes Animation
+# HexWrld - A Blender Geometry Nodes Animation
 
 ## Project Overview
 
